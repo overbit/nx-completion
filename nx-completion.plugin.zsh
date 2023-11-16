@@ -491,3 +491,4 @@ _nx_completion() {
   return ret
 }
 compdef _nx_completion nx
+compdef _nx_completion npx nx
